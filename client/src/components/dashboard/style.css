@@ -1,0 +1,7 @@
+.dash-nav {
+  box-shadow: 0 -6px 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+.dash-main {
+  box-shadow: 0 0 15px 2px rgba(0, 0, 0, 0.15);
+}

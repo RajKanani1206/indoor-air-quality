@@ -1,0 +1,4 @@
+.graph-main {
+  height: calc(100vh - 145px);
+  box-shadow: 0 0 15px 2px rgba(0, 0, 0, 0.15);
+}
